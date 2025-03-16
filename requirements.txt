@@ -1,0 +1,4 @@
+Mediapipe
+OpenCV
+pyserial
+arduino            
