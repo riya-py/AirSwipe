@@ -2,3 +2,5 @@ Mediapipe
 OpenCV
 pyserial
 arduino            
+pyautogui
+numpy 
