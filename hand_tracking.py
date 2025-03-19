@@ -26,7 +26,7 @@ while cap.isOpened():
     # show the video
     cv2.imshow('Hand Tracking', frame)
 
-    if cv2.waitKey(1) & 0xff == 27:
+    if cv2.waitKey(1) & 0xff == 27: # esc the exit key
         break
 
 cap.release()
