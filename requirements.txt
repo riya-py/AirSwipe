@@ -1,6 +1,5 @@
 Mediapipe
-OpenCV
-pyserial
-arduino            
+opencv-python
+pyserial  
 pyautogui
 numpy 
